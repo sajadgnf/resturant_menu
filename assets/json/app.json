@@ -1,0 +1,100 @@
+{
+    "foods": [
+        {
+            "id": "1",
+            "title": "Pepperoni Pizza",
+            "price": "25.99",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis autem quaerat,eveniet ab non numquam veniam minus asperiores",
+            "img": "assets/images/pepperoni.jfif",
+            "type": "lunch"
+        },
+        {
+            "id": "2",
+            "title": "Vegan French Toast",
+            "price": "15.99",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis autem quaerat,eveniet ab non numquam veniam minus asperiores",
+            "img": "assets/images/Vegan French Toast.jfif",
+            "type": "breakfast"
+        },
+        {
+            "id": "3",
+            "title": "Garlic And Steak Pizza",
+            "price": "35",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis autem quaerat,eveniet ab non numquam veniam minus asperiores",
+            "img": "assets/images/GarlicAndSteak.png",
+            "type": "lunch"
+        },
+        {
+            "id": "4",
+            "title": "Latte Coffee",
+            "price": "15.99",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis autem quaerat,eveniet ab non numquam veniam minus asperiores",
+            "img": "assets/images/latte.jfif",
+            "type": "coffee"
+        },
+        {
+            "id": "5",
+            "title": "Margareto Pizza",
+            "price": "30.45",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis autem quaerat,eveniet ab non numquam veniam minus asperiores",
+            "img": "assets/images/pizza.jpg",
+            "type": "lunch"
+        },
+        {
+            "id": "6",
+            "title": "Salted Caramel and Chocolate",
+            "price": "22.99",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis autem quaerat,eveniet ab non numquam veniam minus asperiores",
+            "img": "assets/images/SaltedCaramelAndChocolate.jfif",
+            "type": "coffee"
+        },
+        {
+            "id": "7",
+            "title": "Hamburger Americano",
+            "price": "25.99",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis autem quaerat,eveniet ab non numquam veniam minus asperiores",
+            "img": "assets/images/HamburgerAmericano.jfif",
+            "type": "lunch"
+        },
+        {
+            "id": "8",
+            "title": "Frothy Whipped Coffee",
+            "price": "25.99",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis autem quaerat,eveniet ab non numquam veniam minus asperiores",
+            "img": "assets/images/FrothyWhippedCoffee.png",
+            "type": "coffee"
+        },
+        {
+            "id": "9",
+            "title": "Egg",
+            "price": "15.99",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis autem quaerat,eveniet ab non numquam veniam minus asperiores",
+            "img": "assets/images/Egg.jpg",
+            "type": "breakfast"
+        },
+        {
+            "id": "10",
+            "title": "French Toast",
+            "price": "31.99",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis autem quaerat,eveniet ab non numquam veniam minus asperiores",
+            "img": "assets/images/French-Toast.jpg",
+            "type": "breakfast"
+        },
+        {
+            "id": "11",
+            "title": "BBQ Chicken Pizza",
+            "price": "15.99",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis autem quaerat,eveniet ab non numquam veniam minus asperiores",
+            "img": "assets/images/BBQChickenPizza.jfif",
+            "type": "lunch"
+        },
+        {
+            "id": "12",
+            "title": "Chicken Sandwiches",
+            "price": "35.99",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis autem quaerat,eveniet ab non numquam veniam minus asperiores",
+            "img": "assets/images/ChickenSandwiches.jfif",
+            "type": "lunch"
+        }
+    ]
+}
